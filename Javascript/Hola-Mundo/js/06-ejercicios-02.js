@@ -22,7 +22,9 @@ do {
 
     alert("la suma de todos los numeros es "+suma);
     alert("la media de todos los nuemros es "+(suma/contador));
+  
 
+    
 
 
 }

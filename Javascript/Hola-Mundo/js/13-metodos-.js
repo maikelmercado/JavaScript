@@ -1,5 +1,7 @@
 'use strict'
 
+//METODOS PARA PROCESAR DATOS 
+
 //transformacion de textos 
 
 var numero = 444;
