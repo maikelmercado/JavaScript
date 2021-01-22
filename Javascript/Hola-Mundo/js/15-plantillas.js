@@ -1,6 +1,6 @@
 'use strict'
 
-//plantillas
+//PLANTILLAS
 
 
 var nombre = prompt("mete tu nombre");
