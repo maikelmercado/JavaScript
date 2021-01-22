@@ -1,6 +1,6 @@
 'use strisct'
-
-//METODO FOREACH Recorre todo el array 
+//ARRAY  FOR FOREACH 
+//METODO FOREACH Recorre todo el array y lo itera 
 
 
 var lenguajes = new Array("php", "java", "javascripts", "c#");
