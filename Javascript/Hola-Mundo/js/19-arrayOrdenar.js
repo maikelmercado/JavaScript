@@ -25,3 +25,5 @@
  var busqueda = peliculas.find(peli => peli == "Cblack");
 
 console.log(busqueda);
+
+//PPRUEBA DE CAMBIO MARTES 26-01 segundo intento otra rama    
